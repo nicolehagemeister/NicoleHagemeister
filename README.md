@@ -35,11 +35,15 @@ Currently working in Data Analytics, my focus is increasingly shifting toward Da
 
 `Power BI` · `DAX` · `Data Modeling` · `Power Query`
 
-### Data Engineering & Automation
+### Data Engineering
 
-`ETL` · `Data Pipelines` · `KNIME` · `Power Automate` · `APIs` · `Web Scraping`
+`Databricks` . `ETL` · `Data Pipelines` · `APIs` · `Web Scraping`
 
-### Cloud & Tools
+### Automation & Workflow
+
+`KNIME` · `Power Automate`
+
+### Cloud & Data Platforms
 
 `AWS` · `SharePoint`
 
