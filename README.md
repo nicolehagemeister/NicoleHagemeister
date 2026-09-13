@@ -6,10 +6,6 @@ I build data solutions that turn operational data into actionable insights, and 
 
 Currently working in Data Analytics, my focus is increasingly shifting toward Data Engineering, and AI-powered analytics.
 
-### My approach
-
-> Don't just visualize the data. Understand it.
-
 ### Tools
 
 `Python` · `SQL` · `Power BI` · `Power Automate` · `KNIME` · `Data Pipelines`
