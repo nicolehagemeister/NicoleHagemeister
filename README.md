@@ -15,7 +15,7 @@ Currently working in Data Analytics, my focus is increasingly shifting toward Da
 ## Highlights
 
 - **AI-powered analytics** — implemented AI-generated dashboard summaries and insights, connecting Power BI with an internal AI API to accelerate data interpretation and month closing processes.
-- **Pipeline innovation** — automated ETL processes using Python, reducing processing time by up to 99%.
+- **Pipeline innovation** — automated ETL processes using Python, reducing processing time by over 50 hours.
 - **Business intelligence** — developed dashboards supporting finance, logistics, sales, inventory, pricing, project management, and customer operations.
 - **End-to-end data solutions** — working across data extraction, transformation, automation, visualization, and business analysis.
 
