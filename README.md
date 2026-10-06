@@ -21,8 +21,8 @@ I'm particularly interested in:
 
 - **AI-Powered Analytics** — integrated Power BI with an AI API for automated insights and summaries, accelerating data interpretation and month-end closing processes.
 - **ETL Automation** — developed automated Python ETL pipelines, saving 50+ hours of processing time for a single process.
-- **Business intelligence** — built dashboards to support finance, logistics, sales, inventory, pricing, project management, and customer operations.
-- **End-to-end data solutions** — working across data extraction, transformation, automation, visualization, and business analysis.
+- **Business Intelligence** — built dashboards to support finance, logistics, sales, inventory, pricing, project management, and customer operations.
+- **End-to-end Data Solutions** — working across data extraction, transformation, automation, visualization, and business analysis.
 
 ---
 
