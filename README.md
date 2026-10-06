@@ -2,7 +2,7 @@
 
 ### Data Analyst · Data Engineering · AI & Automation · Business Intelligence
 
-Currently working in Data Analytics, my focus is increasingly shifting toward Data Engineering and AI-powered analytics.
+Currently working in Data Analytics, my focus is increasingly shifting towards Data Engineering and AI-powered analytics.
 
 I'm particularly interested in:
 
