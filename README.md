@@ -78,4 +78,6 @@ I'm interested in opportunities involving Data Engineering, Data Science, Analyt
 
 🌎 Based in Brazil · Open to opportunities in international environments
 
-[LinkedIn](https://www.linkedin.com/in/nicole-hagemeister-07970227a/)
+<a href="https://www.linkedin.com/in/nicole-hagemeister-07970227a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
