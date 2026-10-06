@@ -1,10 +1,15 @@
 # Hi, I'm Nicole :)
 
-### Data Analyst · BI · Data Engineering · AI & Automation
-
-I build data solutions that turn operational data into actionable insights, and measurable business impact.
+### Data Analyst · Data Engineering · AI & Automation · Business Intelligence
 
 Currently working in Data Analytics, my focus is increasingly shifting toward Data Engineering, and AI-powered analytics.
+
+I'm particularly interested in:
+
+- Data pipelines and scalable architectures
+- Cloud data platforms
+- AI-powered analytics
+- Data applications in finance and large-scale businesses
 
 ### Tools
 
@@ -30,11 +35,11 @@ Currently working in Data Analytics, my focus is increasingly shifting toward Da
 
 ### Business Intelligence
 
-`Power BI` · `DAX` · `Data Modeling` · `Power Query`
+`Power BI` · `DAX` · `Power Query`
 
 ### Data Engineering
 
-`Databricks` . `ETL` · `Data Pipelines` · `APIs` · `Web Scraping`
+`Databricks` . `Data Pipelines` · `Web Scraping`
 
 ### Automation & Workflow
 
@@ -46,20 +51,7 @@ Currently working in Data Analytics, my focus is increasingly shifting toward Da
 
 ### AI & Analytics
 
-`AI APIs` · `Automated Insights` · `Data Analysis` · `Machine Learning`
-
----
-
-## What I'm Building Toward
-
-My goal is to grow from Data Analytics & BI into Data Engineering and AI-driven data systems.
-
-I'm particularly interested in:
-
-- Data pipelines and scalable architectures
-- Cloud data platforms
-- AI-powered analytics
-- Data applications in finance and large-scale businesses
+`AI APIs` · `Automated Insights`
 
 ---
 
