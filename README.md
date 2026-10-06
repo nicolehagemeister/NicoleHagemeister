@@ -38,7 +38,7 @@ My ongoing academic journey also includes the **MITx MicroMasters in Statistics 
 
 ## Let's Connect
 
-I'm interested in opportunities involving Data Engineering, Data Science, Analytics, BI and AI.
+I'm interested in opportunities involving Data Engineering, Data Science, Analytics, BI, and AI.
 
 🌎 Based in Brazil · Open to opportunities in international environments
 
